@@ -3,7 +3,8 @@
 ```
 Aquí almaceno ejercicios, pruebas, retos y pequeños experimentos desarrollados en distintos lenguajes.
 La organización se realiza por lenguaje, no por temática.
-Esto me permite explorar las características, paradigmas y herramientas propias de cada ecosistema de forma independiente.
+Esto me permite explorar las características, paradigmas
+y herramientas propias de cada ecosistema de forma independiente.
 
 ```
 
