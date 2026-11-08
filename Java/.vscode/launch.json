@@ -1,0 +1,168 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "SegundaParte",
+            "request": "launch",
+            "mainClass": "EntradaDatos.SegundaParte",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "primeraparte",
+            "request": "launch",
+            "mainClass": "EntradaDatos.primeraparte",
+            "projectName": ""
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "AreaPoligonal.Main",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Constructor.Main",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "main1",
+            "request": "launch",
+            "mainClass": "Constructor.main1",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "MainCuadrilatero",
+            "request": "launch",
+            "mainClass": "Ejercicio1.MainCuadrilatero",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "MainPosicion",
+            "request": "launch",
+            "mainClass": "Ejercicio2.MainPosicion",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Ejercicio3.Main",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "Ejercicio4.Main",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "Ejercicio5.Main",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "MainClase1",
+            "request": "launch",
+            "mainClass": "Encapsulamiento.MainClase1",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "Encapsulamiento.Principal",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "Herencia.Main",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "MetodosAbstractos.Main",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "org.example.Main",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Objeto",
+            "request": "launch",
+            "mainClass": "org.example.Objeto",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Objeto2",
+            "request": "launch",
+            "mainClass": "org.example.Objeto2",
+            "projectName": "POO"
+        },
+        {
+            "type": "java",
+            "name": "Objeto3",
+            "request": "launch",
+            "mainClass": "org.example.Objeto3",
+            "projectName": "POO"
+        }
+    ]
+}
